@@ -25,7 +25,7 @@ slug = "danes"
 --------
 
  * Juan José Trakal
- * Marta Morabito
+ 
 
 
 3er. Dan
@@ -35,15 +35,13 @@ slug = "danes"
  * Carlos Angel Hernandez
  * Daniel Zukauskas
  * Guillermo Echeverria
- * José Delgado
  * Rafaél Santiago Moyano
  * Sergio Rossi
 
 2do. Dan
 --------
 
- * Ariane Rafael
- * Diego Ferreyra
+ * Ariane Rafael* 
  * Diego Gustavo Hefty
  * Eduardo Castelli
  * Eugenio Fernandez
@@ -60,7 +58,6 @@ slug = "danes"
  * Luis Tokashiki
  * Marcela del Rosario Tapia
  * Mary Peretti
- * Melina Rey
  * Omar Mazzieri
  * Pablo Arranz
  * Pablo Boetsch
