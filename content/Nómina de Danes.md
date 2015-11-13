@@ -40,11 +40,7 @@ slug = "danes"
  * Sergio Rossi
 
 2do. Dan
---------
-C
-
-
-
+-----
  * Ariane Rafael* 
  * Diego Gustavo Hefty
  * Eduardo Castelli
