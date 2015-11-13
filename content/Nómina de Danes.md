@@ -1,3 +1,4 @@
+
 +++
 Description = ""
 date = "2014-09-07T20:00:15-03:00"
@@ -40,11 +41,13 @@ slug = "danes"
 
 2do. Dan
 --------
+C
+
+
 
  * Ariane Rafael* 
  * Diego Gustavo Hefty
  * Eduardo Castelli
- * Eugenio Fernandez
  * Fabian Eduardo Fernandez
  * Gustavo Saldaña
  * Gustavo Sanin
